@@ -15,7 +15,7 @@
 | | 도어락 제어내역 | [list.dart](doorlock/lib/screens/list.dart)|
 
 ## 구현 화면
-|![](readmeImg/reguser.gif)|![](readmeImg/moduser.gif)|![](readmeImg/control.gif)|![](readmeImg/admindoor.gif)|
+|![](assets/readmeImg/reguser.gif)|![](assets/readmeImg/moduser.gif)|![](assets/readmeImg/control.gif)|![](assets/readmeImg/admindoor.gif)|
 |:---:|:---:|:---:|:---:|
 |사용자 가입|사용자 정보변경, 탈퇴|도어락 열람, 제어, 제어내역|도어락 관리, 사용자 관리|
 
